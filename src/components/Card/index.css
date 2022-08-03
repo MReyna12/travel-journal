@@ -1,33 +1,40 @@
 h5 {
-  padding-right: 15px;
-}
-
-/** Card Container Styling **/
-.flex {
-  display: flex;
-}
-
-.align-items-center {
-  align-items: center;
-}
-
-.container-width {
-  width: 1280px;
-  margin-left: auto;
-  margin-right: auto;
+  padding-right: 0.9375em;
+  font-weight: 100;
+  letter-spacing: 0.1rem;
 }
 
 /** Image Styling **/
 .card-photo-container {
-  width: 126px;
+  width: 7.875rem;
   flex-shrink: 0;
-}
-
-.pin-container {
-  width: 7px;
-  padding-right: 3px;
+  padding-right: 1.25rem;
 }
 
 .image-width {
   width: 100%;
+  border-radius: 0.313rem;
+}
+
+/** Pin Section Styling **/
+.pin-container {
+  width: 0.438rem;
+  padding-right: 0.188rem;
+}
+
+/** Line Spacing **/
+.line-spacing {
+  line-height: 1.25em;
+}
+
+/** Date Styling **/
+.date {
+  font-weight: bold;
+  padding-top: 0.8rem;
+  padding-bottom: 0.5rem;
+}
+
+/** Hyperlink Styling **/
+a {
+  color: #918e9b;
 }

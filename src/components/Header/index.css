@@ -1,0 +1,14 @@
+header {
+  background-color: #f55a5a;
+  padding: 1rem;
+}
+
+h1 {
+  color: white;
+  padding-left: 0.5rem;
+  font-size: 0.90375em;
+}
+
+.justify-content-center {
+  justify-content: center;
+}
