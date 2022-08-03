@@ -8,7 +8,7 @@ export default [
     endDate: "1 Jan, 2021",
     description:
       "Mount Rainier National Park, a 369-sq.-mile Washington state reserve southeast of Seattle, surrounds glacier-capped, 14,410-ft. Mount Rainier. Atop 6,400-ft.-high Sunrise, the highest point in the park reachable by car, visitors can admire Rainier and other nearby volcanoes, including Mount Adams.",
-    imageUrl: "./yosemite.jpg",
+    imageUrl: "./rainier.jpg",
     imageAltText: "Photogram of something",
   },
   {
@@ -20,7 +20,7 @@ export default [
     endDate: "1 Jan, 2021",
     description:
       "Miami Beach is a south Florida island city, connected by bridges to mainland Miami. Wide beaches stretch from North Shore Open Space Park, past palm-lined Lummus Park to South Pointe Park.",
-    imageUrl: "./yosemite.jpg",
+    imageUrl: "./miami.jpg",
     imageAltText: "Photogram of something",
   },
   {
@@ -44,7 +44,7 @@ export default [
     endDate: "1 Jan, 2021",
     description:
       "Laguna Beach is a small coastal city in Orange County, California. It's known for its many art galleries, coves and beaches. Main Beach features tide pools and a boardwalk leading to the paths and gardens of nearby Heisler Park. Aliso Beach Park is a popular surf spot.",
-    imageUrl: "./yosemite.jpg",
+    imageUrl: "./laguna.jpg",
     imageAltText: "Photogram of something",
   },
   {
@@ -56,7 +56,7 @@ export default [
     endDate: "1 Jan, 2021",
     description:
       "Los Angeles is a sprawling Southern California city and the center of the nation's film and television industry.",
-    imageUrl: "./yosemite.jpg",
+    imageUrl: "./los-angeles.jpg",
     imageAltText: "Photogram of something",
   },
   {
@@ -80,7 +80,7 @@ export default [
     endDate: "1 Jan, 2021",
     description:
       "New York City comprises 5 boroughs sitting where the Hudson River meets the Atlantic Ocean. At its core is Manhattan, a densely populated borough that's among the world's major commercial, financial and cultural centers. Its iconic sites include skyscrapers such as the Empire State Building and sprawling Central Park.",
-    imageUrl: "./yosemite.jpg",
+    imageUrl: "./new-york.jpg",
     imageAltText: "Photogram of something",
   },
   {
@@ -92,7 +92,7 @@ export default [
     endDate: "1 Jan, 2021",
     description:
       "Las Vegas, often known simply as Vegas, is the 25th-most populous city in the United States, the most populous city in the state of Nevada, and the county seat of Clark County. The city anchors the Las Vegas Valley metropolitan area and is the largest city within the greater Mojave Desert.",
-    imageUrl: "./yosemite.jpg",
+    imageUrl: "./vegas.jpg",
     imageAltText: "Photogram of something",
   },
 ];
