@@ -1,0 +1,33 @@
+h5 {
+  padding-right: 15px;
+}
+
+/** Card Container Styling **/
+.flex {
+  display: flex;
+}
+
+.align-items-center {
+  align-items: center;
+}
+
+.container-width {
+  width: 1280px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+/** Image Styling **/
+.card-photo-container {
+  width: 126px;
+  flex-shrink: 0;
+}
+
+.pin-container {
+  width: 7px;
+  padding-right: 3px;
+}
+
+.image-width {
+  width: 100%;
+}
