@@ -19,7 +19,7 @@
 
 ### Links
 
-- [My Travel Journal](https://michael-reyna-digital-business-card.netlify.app/)
+- [My Travel Journal](https://reyna-travel-journal.netlify.app/)
 
 ## My Process
 
